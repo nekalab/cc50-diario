@@ -1,0 +1,21 @@
+# First Day in CC50 – Harvard
+
+Today I started the **CC50 course**, the translated version of **Harvard’s CS50**, one of the most well-known introductory courses in Computer Science. From the very beginning, I was fascinated, mainly because this is the field I want to pursue in my undergraduate studies (assuming everything goes well and I don’t quit along the way).
+
+---
+
+## What caught my attention
+
+- The difference between **interpreted languages** (such as Python) and **compiled languages** (such as C).
+- How **program compilation** works and what actually happens during program execution.
+- Practical exercise: creating the classic **Hello World** program.
+  - In **Python**, the script is executed directly.
+  - In **C**, I wrote the code and **compiled** it using a compiler to generate an executable program.
+
+---
+
+## My impressions
+
+It was an excellent start. I am genuinely looking forward to exploring more concepts related to **programming, algorithms, and data structures** in the coming days.
+
+> Each exercise represents one more step in my learning journey in Computer Science.
