@@ -1,0 +1,48 @@
+# Lecture 0 – Scratch and Foundations of Computer Science (CS50 / CC50)
+
+This repository contains my notes and reflections from **Lecture 0 of the CS50/CC50 course**, focused on the foundational concepts of computer science and an introduction to the visual programming language **Scratch**.
+
+---
+
+## 🧠 What I learned in this lecture
+
+The lecture introduced the **core pillars of computer science**, making it clear that the field is not about memorizing code, but about **solving problems using logic and structured thinking**.
+
+The main topics covered were:
+
+- What computer science is and its direct connection to problem-solving  
+- Data representation:
+  - Numbers (decimal, binary, and bits)
+  - Text (ASCII and Unicode)
+  - Images, videos, and sounds (pixels, RGB, frequencies)
+- Algorithms and efficiency
+- Pseudocode
+- Fundamental programming concepts:
+  - Functions
+  - Conditions
+  - Boolean expressions
+  - Loops
+- Introduction to **Scratch** as a tool for learning programming logic
+
+Scratch was used as an entry point to understand how programs work by using visual blocks instead of text-based code, making concepts like events, repetition, variables, and abstraction easier to grasp.
+
+---
+
+## 💭 Personal reflections
+
+I felt **extremely motivated** during this first lecture. Not in a superficial way, but with the feeling that this is something I genuinely want to keep exploring.
+
+Most of the initial content was not entirely new to me, since I had previously studied topics such as **binary numbers and basic network concepts**, which made the first part of the lecture easier to follow without much effort. Even so, the lecture was far from boring.
+
+I am always genuinely amazed by the fact that **everything a computer does is ultimately based on 1s and 0s**. Text, images, sound, video, emojis. All of it. Even understanding the theory, it still feels almost unreal that such complexity emerges from something so simple.
+
+This lecture reinforced an idea that really resonates with me:  
+**computer science is creativity guided by logic**.
+
+It is not just technical knowledge, not just math, and definitely not just code. It is about thinking, breaking problems down, designing solutions, and understanding systems. Scratch makes this very clear by showing that even simple actions, like a character moving or speaking, already involve decisions, repetition, and abstraction.
+
+---
+
+## 🎯 Conclusion
+
+Lecture 0 successfully introduced the foundations of computer science, connected theory with practice, and showed that programming is about building solutions step by step using logic, structure, and creativity.
